@@ -1,3 +1,4 @@
+![](https://github.com/sejalsingh417/sejalsingh417/blob/main/sejal_singh.jpeg)
 <h1 align="center">Hi 👋, I'm Sejal Singh</h1>
 <h3 align="center">Passionate about Technology</h3>
 
