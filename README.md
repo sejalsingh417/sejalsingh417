@@ -1,18 +1,20 @@
-![](https://github.com/sejalsingh417/sejalsingh417/blob/main/sejal_singh.jpeg)
+![](https://github.com/sejalsingh417/sejalsingh417/blob/main/Cover.jpg)
 <h1 align="center">Hi 👋, I'm Sejal Singh</h1>
 <h3 align="center">Passionate about Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sejalsingh417&label=Profile%20views&color=0e75b6&style=flat" alt="sejalsingh417" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sejalsingh417" alt="sejalsingh417" /></a> </p>
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 - 🌱 I’m currently learning **Android App Development**
 
 - 📫 How to reach me **shejalsingh731@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sejalsingh417" alt="sejalsingh417" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
