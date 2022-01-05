@@ -5,7 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sejalsingh417&label=Profile%20views&color=0e75b6&style=flat" alt="sejalsingh417" /> </p>
 
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sejalsingh417" alt="sejalsingh417" /></a> </p>
 
 - 🌱 I’m currently learning **Android App Development**
 
@@ -15,6 +14,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sejalsingh417" alt="sejalsingh417" /></a> </p>
+
+
+
 <a href="https://twitter.com/sejalsi22397801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sejalsi22397801" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sejal-singh-6637761a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sejal-singh-6637761a8" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/shejal_05" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shejal_05" height="30" width="40" /></a>
