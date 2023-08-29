@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 🌱 I’m currently learning **Android App Development**
+- 🌱 I’m currently finding ** Motivation **
 
 - 📫 How to reach me **shejalsingh731@gmail.com**
 
